@@ -1,6 +1,8 @@
 import _ from 'lodash';
 import './style.css';
+import './style.scss';
 import logo from './logo.png';
+
 
 "use strict";
 
